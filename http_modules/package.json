@@ -1,0 +1,24 @@
+{
+  "name": "http_modules",
+  "version": "1.0.0",
+  "description": "\"learning backend\"",
+  "keywords": [
+    "http"
+  ],
+  "homepage": "https://github.com/pratyush0107/pratyush_fullstack#readme",
+  "bugs": {
+    "url": "https://github.com/pratyush0107/pratyush_fullstack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratyush0107/pratyush_fullstack.git"
+  },
+  "license": "ISC",
+  "author": "pratyush",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
