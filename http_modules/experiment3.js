@@ -1,12 +1,15 @@
+import { error } from 'console';
 import http from 'http'
 
 const server = http.createServer((req,res)=>{
     try{
-        res.writeHead(200,{"content-type": "text/html"})
-        res.end( "<h1>hello world</h1>")
+      throw new Error("http break")
+      res.writeHead(200,{"content-type": "text/html"})
+      res.end('<h1 style="color: blue">hello world</h1>');
+     
     } catch(error){
         res.writeHead(404,{"content-type": "text/html"})
-        res.end("<h1>Error Page Not Found </h1>")
+        res.end(`<h1>Error Page Not Found ${error.message}</h1>`)
     }
     
 })
