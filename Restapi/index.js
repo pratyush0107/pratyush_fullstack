@@ -59,7 +59,7 @@ import products from "./products.json" with { type: "json" };
 
 app.use(express.json());
 
-// Get product by ID
+
 app.get("/product/:id", (req, res) => {
 const product = products.find(
 (product) => product.id == req.params.id
