@@ -1,0 +1,702 @@
+ [
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "category": "Clothing",
+    "description": "Comfortable cotton t-shirt for everyday wear.",
+    "color": "Blue"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "description": "Lightweight running shoes with cushioned support.",
+    "color": "Black"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "description": "Bluetooth headphones with clear sound and long battery life.",
+    "color": "White"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "description": "Smart watch with fitness and notification features.",
+    "color": "Silver"
+  },
+  {
+    "id": 5,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "description": "Compact wallet made from durable leather.",
+    "color": "Brown"
+  },
+  {
+    "id": 6,
+    "name": "Coffee Mug",
+    "category": "Home",
+    "description": "Ceramic mug suitable for hot and cold beverages.",
+    "color": "Red"
+  },
+  {
+    "id": 7,
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "description": "Spacious backpack with a padded laptop compartment.",
+    "color": "Gray"
+  },
+  {
+    "id": 8,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "description": "Adjustable LED desk lamp for work and study.",
+    "color": "White"
+  },
+  {
+    "id": 9,
+    "name": "Water Bottle",
+    "category": "Sports",
+    "description": "Reusable insulated water bottle.",
+    "color": "Green"
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "description": "Non-slip yoga mat for exercise and stretching.",
+    "color": "Purple"
+  },
+  {
+    "id": 11,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "description": "Stylish sunglasses with UV protection.",
+    "color": "Black"
+  },
+  {
+    "id": 12,
+    "name": "Baseball Cap",
+    "category": "Clothing",
+    "description": "Adjustable cap for casual outdoor use.",
+    "color": "Blue"
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "description": "Portable speaker with wireless connectivity.",
+    "color": "Red"
+  },
+  {
+    "id": 14,
+    "name": "Notebook",
+    "category": "Stationery",
+    "description": "Hardcover notebook with lined pages.",
+    "color": "Yellow"
+  },
+  {
+    "id": 15,
+    "name": "Ballpoint Pen",
+    "category": "Stationery",
+    "description": "Smooth writing pen for everyday use.",
+    "color": "Blue"
+  },
+  {
+    "id": 16,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "description": "Ergonomic mouse with adjustable sensitivity.",
+    "color": "Black"
+  },
+  {
+    "id": 17,
+    "name": "Keyboard",
+    "category": "Electronics",
+    "description": "Comfortable keyboard for work and gaming.",
+    "color": "Black"
+  },
+  {
+    "id": 18,
+    "name": "Phone Case",
+    "category": "Accessories",
+    "description": "Protective case designed for smartphones.",
+    "color": "Transparent"
+  },
+  {
+    "id": 19,
+    "name": "Power Bank",
+    "category": "Electronics",
+    "description": "Portable charger for mobile devices.",
+    "color": "Gray"
+  },
+  {
+    "id": 20,
+    "name": "USB Cable",
+    "category": "Electronics",
+    "description": "Durable charging and data transfer cable.",
+    "color": "White"
+  },
+  {
+    "id": 21,
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "description": "Warm jacket suitable for cold weather.",
+    "color": "Navy Blue"
+  },
+  {
+    "id": 22,
+    "name": "Jeans",
+    "category": "Clothing",
+    "description": "Comfortable denim jeans for casual wear.",
+    "color": "Blue"
+  },
+  {
+    "id": 23,
+    "name": "Sneakers",
+    "category": "Footwear",
+    "description": "Casual sneakers with a comfortable sole.",
+    "color": "White"
+  },
+  {
+    "id": 24,
+    "name": "Sandals",
+    "category": "Footwear",
+    "description": "Lightweight sandals for everyday use.",
+    "color": "Brown"
+  },
+  {
+    "id": 25,
+    "name": "Wrist Watch",
+    "category": "Accessories",
+    "description": "Classic analog watch with a durable strap.",
+    "color": "Gold"
+  },
+  {
+    "id": 26,
+    "name": "Table Fan",
+    "category": "Home",
+    "description": "Compact fan with adjustable speed settings.",
+    "color": "White"
+  },
+  {
+    "id": 27,
+    "name": "Electric Kettle",
+    "category": "Home",
+    "description": "Fast boiling kettle for tea and coffee.",
+    "color": "Silver"
+  },
+  {
+    "id": 28,
+    "name": "Toaster",
+    "category": "Home",
+    "description": "Two-slice toaster with adjustable settings.",
+    "color": "Black"
+  },
+  {
+    "id": 29,
+    "name": "Bed Sheet",
+    "category": "Home",
+    "description": "Soft and comfortable bed sheet set.",
+    "color": "White"
+  },
+  {
+    "id": 30,
+    "name": "Pillow",
+    "category": "Home",
+    "description": "Soft pillow for comfortable sleeping.",
+    "color": "Gray"
+  },
+  {
+    "id": 31,
+    "name": "Football",
+    "category": "Sports",
+    "description": "Durable football for training and matches.",
+    "color": "White"
+  },
+  {
+    "id": 32,
+    "name": "Cricket Bat",
+    "category": "Sports",
+    "description": "Wooden cricket bat for practice and games.",
+    "color": "Natural"
+  },
+  {
+    "id": 33,
+    "name": "Tennis Racket",
+    "category": "Sports",
+    "description": "Lightweight racket with a comfortable grip.",
+    "color": "Red"
+  },
+  {
+    "id": 34,
+    "name": "Dumbbells",
+    "category": "Fitness",
+    "description": "Hand weights for strength training.",
+    "color": "Black"
+  },
+  {
+    "id": 35,
+    "name": "Skipping Rope",
+    "category": "Fitness",
+    "description": "Adjustable rope for cardio workouts.",
+    "color": "Blue"
+  },
+  {
+    "id": 36,
+    "name": "Protein Shaker",
+    "category": "Fitness",
+    "description": "Leak-resistant shaker bottle for drinks.",
+    "color": "Green"
+  },
+  {
+    "id": 37,
+    "name": "Face Wash",
+    "category": "Beauty",
+    "description": "Gentle face cleanser for daily skincare.",
+    "color": "White"
+  },
+  {
+    "id": 38,
+    "name": "Shampoo",
+    "category": "Beauty",
+    "description": "Hair cleansing shampoo for regular use.",
+    "color": "Blue"
+  },
+  {
+    "id": 39,
+    "name": "Body Lotion",
+    "category": "Beauty",
+    "description": "Moisturizing lotion for soft skin.",
+    "color": "Pink"
+  },
+  {
+    "id": 40,
+    "name": "Perfume",
+    "category": "Beauty",
+    "description": "Long-lasting fragrance for daily use.",
+    "color": "Purple"
+  },
+  {
+    "id": 41,
+    "name": "Lip Balm",
+    "category": "Beauty",
+    "description": "Moisturizing balm for dry lips.",
+    "color": "Pink"
+  },
+  {
+    "id": 42,
+    "name": "Dining Chair",
+    "category": "Furniture",
+    "description": "Comfortable chair for dining areas.",
+    "color": "Brown"
+  },
+  {
+    "id": 43,
+    "name": "Coffee Table",
+    "category": "Furniture",
+    "description": "Modern table suitable for living rooms.",
+    "color": "Brown"
+  },
+  {
+    "id": 44,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "description": "Wooden shelf for organizing books.",
+    "color": "Brown"
+  },
+  {
+    "id": 45,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "description": "Ergonomic chair designed for office work.",
+    "color": "Black"
+  },
+  {
+    "id": 46,
+    "name": "Study Table",
+    "category": "Furniture",
+    "description": "Compact table for studying and working.",
+    "color": "White"
+  },
+  {
+    "id": 47,
+    "name": "Cookbook",
+    "category": "Books",
+    "description": "Collection of easy and delicious recipes.",
+    "color": "Red"
+  },
+  {
+    "id": 48,
+    "name": "Science Book",
+    "category": "Books",
+    "description": "Educational book covering basic science topics.",
+    "color": "Blue"
+  },
+  {
+    "id": 49,
+    "name": "Novel",
+    "category": "Books",
+    "description": "Engaging fictional story for readers.",
+    "color": "Green"
+  },
+  {
+    "id": 50,
+    "name": "Dictionary",
+    "category": "Books",
+    "description": "Comprehensive dictionary for language learning.",
+    "color": "Black"
+  },
+  {
+    "id": 51,
+    "name": "Action Camera",
+    "category": "Electronics",
+    "description": "Compact camera for recording outdoor activities.",
+    "color": "Black"
+  },
+  {
+    "id": 52,
+    "name": "Tripod",
+    "category": "Electronics",
+    "description": "Adjustable tripod for cameras and phones.",
+    "color": "Black"
+  },
+  {
+    "id": 53,
+    "name": "Monitor",
+    "category": "Electronics",
+    "description": "High-resolution display for computers.",
+    "color": "Black"
+  },
+  {
+    "id": 54,
+    "name": "Webcam",
+    "category": "Electronics",
+    "description": "HD webcam for video calls and streaming.",
+    "color": "Black"
+  },
+  {
+    "id": 55,
+    "name": "Router",
+    "category": "Electronics",
+    "description": "Wireless router for internet connectivity.",
+    "color": "White"
+  },
+  {
+    "id": 56,
+    "name": "Travel Bag",
+    "category": "Bags",
+    "description": "Large bag suitable for travel and trips.",
+    "color": "Black"
+  },
+  {
+    "id": 57,
+    "name": "Handbag",
+    "category": "Bags",
+    "description": "Stylish handbag for carrying essentials.",
+    "color": "Brown"
+  },
+  {
+    "id": 58,
+    "name": "Wallet",
+    "category": "Accessories",
+    "description": "Compact wallet with multiple card slots.",
+    "color": "Black"
+  },
+  {
+    "id": 59,
+    "name": "Belt",
+    "category": "Accessories",
+    "description": "Adjustable belt for casual and formal wear.",
+    "color": "Brown"
+  },
+  {
+    "id": 60,
+    "name": "Scarf",
+    "category": "Clothing",
+    "description": "Soft scarf for style and warmth.",
+    "color": "Red"
+  },
+  {
+    "id": 61,
+    "name": "Bluetooth Earbuds",
+    "category": "Electronics",
+    "description": "Compact wireless earbuds with charging case.",
+    "color": "White"
+  },
+  {
+    "id": 62,
+    "name": "Tablet",
+    "category": "Electronics",
+    "description": "Portable tablet for work and entertainment.",
+    "color": "Silver"
+  },
+  {
+    "id": 63,
+    "name": "Laptop Stand",
+    "category": "Electronics",
+    "description": "Adjustable stand for comfortable laptop use.",
+    "color": "Silver"
+  },
+  {
+    "id": 64,
+    "name": "Mouse Pad",
+    "category": "Electronics",
+    "description": "Smooth mouse pad for improved precision.",
+    "color": "Black"
+  },
+  {
+    "id": 65,
+    "name": "External Hard Drive",
+    "category": "Electronics",
+    "description": "Portable storage device for files and backups.",
+    "color": "Black"
+  },
+  {
+    "id": 66,
+    "name": "Plant Pot",
+    "category": "Garden",
+    "description": "Decorative pot suitable for indoor plants.",
+    "color": "White"
+  },
+  {
+    "id": 67,
+    "name": "Garden Gloves",
+    "category": "Garden",
+    "description": "Protective gloves for gardening work.",
+    "color": "Green"
+  },
+  {
+    "id": 68,
+    "name": "Watering Can",
+    "category": "Garden",
+    "description": "Easy-to-use watering can for plants.",
+    "color": "Blue"
+  },
+  {
+    "id": 69,
+    "name": "Plant Seeds",
+    "category": "Garden",
+    "description": "Seeds suitable for growing home plants.",
+    "color": "Brown"
+  },
+  {
+    "id": 70,
+    "name": "Garden Shovel",
+    "category": "Garden",
+    "description": "Strong shovel for digging and planting.",
+    "color": "Green"
+  },
+  {
+    "id": 71,
+    "name": "Toy Car",
+    "category": "Toys",
+    "description": "Small toy car for children.",
+    "color": "Red"
+  },
+  {
+    "id": 72,
+    "name": "Building Blocks",
+    "category": "Toys",
+    "description": "Creative building blocks for children.",
+    "color": "Multicolor"
+  },
+  {
+    "id": 73,
+    "name": "Teddy Bear",
+    "category": "Toys",
+    "description": "Soft and cuddly stuffed teddy bear.",
+    "color": "Brown"
+  },
+  {
+    "id": 74,
+    "name": "Puzzle Set",
+    "category": "Toys",
+    "description": "Fun puzzle set for entertainment.",
+    "color": "Multicolor"
+  },
+  {
+    "id": 75,
+    "name": "Remote Control Car",
+    "category": "Toys",
+    "description": "Battery-powered remote control car.",
+    "color": "Blue"
+  },
+  {
+    "id": 76,
+    "name": "Rice Cooker",
+    "category": "Kitchen",
+    "description": "Electric cooker for preparing rice easily.",
+    "color": "White"
+  },
+  {
+    "id": 77,
+    "name": "Frying Pan",
+    "category": "Kitchen",
+    "description": "Non-stick frying pan for cooking.",
+    "color": "Black"
+  },
+  {
+    "id": 78,
+    "name": "Kitchen Knife",
+    "category": "Kitchen",
+    "description": "Sharp kitchen knife for food preparation.",
+    "color": "Silver"
+  },
+  {
+    "id": 79,
+    "name": "Cutting Board",
+    "category": "Kitchen",
+    "description": "Durable board for chopping ingredients.",
+    "color": "Brown"
+  },
+  {
+    "id": 80,
+    "name": "Food Container",
+    "category": "Kitchen",
+    "description": "Reusable container for storing food.",
+    "color": "Transparent"
+  },
+  {
+    "id": 81,
+    "name": "Car Charger",
+    "category": "Automotive",
+    "description": "USB charger designed for vehicles.",
+    "color": "Black"
+  },
+  {
+    "id": 82,
+    "name": "Car Phone Holder",
+    "category": "Automotive",
+    "description": "Secure holder for smartphones in cars.",
+    "color": "Black"
+  },
+  {
+    "id": 83,
+    "name": "Car Cleaning Kit",
+    "category": "Automotive",
+    "description": "Complete kit for cleaning vehicle interiors.",
+    "color": "Blue"
+  },
+  {
+    "id": 84,
+    "name": "Motorcycle Helmet",
+    "category": "Automotive",
+    "description": "Protective helmet for motorcycle riders.",
+    "color": "Black"
+  },
+  {
+    "id": 85,
+    "name": "Car Air Freshener",
+    "category": "Automotive",
+    "description": "Fresh fragrance for vehicle interiors.",
+    "color": "Green"
+  },
+  {
+    "id": 86,
+    "name": "Dog Collar",
+    "category": "Pets",
+    "description": "Adjustable collar for dogs.",
+    "color": "Red"
+  },
+  {
+    "id": 87,
+    "name": "Pet Bowl",
+    "category": "Pets",
+    "description": "Durable bowl for pet food and water.",
+    "color": "Blue"
+  },
+  {
+    "id": 88,
+    "name": "Cat Toy",
+    "category": "Pets",
+    "description": "Interactive toy for cats.",
+    "color": "Yellow"
+  },
+  {
+    "id": 89,
+    "name": "Pet Bed",
+    "category": "Pets",
+    "description": "Soft and comfortable sleeping bed for pets.",
+    "color": "Gray"
+  },
+  {
+    "id": 90,
+    "name": "Pet Brush",
+    "category": "Pets",
+    "description": "Brush for grooming pet fur.",
+    "color": "Purple"
+  },
+  {
+    "id": 91,
+    "name": "Alarm Clock",
+    "category": "Home",
+    "description": "Digital alarm clock with clear display.",
+    "color": "Black"
+  },
+  {
+    "id": 92,
+    "name": "Wall Clock",
+    "category": "Home",
+    "description": "Decorative wall clock for home interiors.",
+    "color": "White"
+  },
+  {
+    "id": 93,
+    "name": "Picture Frame",
+    "category": "Home",
+    "description": "Elegant frame for displaying photographs.",
+    "color": "Brown"
+  },
+  {
+    "id": 94,
+    "name": "Floor Lamp",
+    "category": "Home",
+    "description": "Tall lamp for additional room lighting.",
+    "color": "Black"
+  },
+  {
+    "id": 95,
+    "name": "Curtains",
+    "category": "Home",
+    "description": "Decorative curtains for windows.",
+    "color": "Beige"
+  },
+  {
+    "id": 96,
+    "name": "Hoodie",
+    "category": "Clothing",
+    "description": "Comfortable hoodie for casual wear.",
+    "color": "Gray"
+  },
+  {
+    "id": 97,
+    "name": "Formal Shirt",
+    "category": "Clothing",
+    "description": "Classic shirt suitable for formal occasions.",
+    "color": "White"
+  },
+  {
+    "id": 98,
+    "name": "Sports Shorts",
+    "category": "Clothing",
+    "description": "Lightweight shorts for sports activities.",
+    "color": "Black"
+  },
+  {
+    "id": 99,
+    "name": "Raincoat",
+    "category": "Clothing",
+    "description": "Water-resistant raincoat for rainy weather.",
+    "color": "Yellow"
+  },
+  {
+    "id": 100,
+    "name": "Slippers",
+    "category": "Footwear",
+    "description": "Comfortable slippers for indoor use.",
+    "color": "Blue"
+  }
+]
